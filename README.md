@@ -11,4 +11,4 @@ This European Soccer Analysts from several European countries from 2008 to 2016 
 ## More information:
 
 - **The Jupyter Notebook** is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more.
-- [How to install Jupyter Notebook?](https://jupyter.org/install)
+- [Install Jupyter Notebook?](https://jupyter.org/install)
