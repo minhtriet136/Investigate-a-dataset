@@ -7,3 +7,8 @@ This European Soccer Analysts from several European countries from 2008 to 2016 
 - [Matplotlib](https://matplotlib.org/)
 - [Data](https://www.kaggle.com/hugomathien/soccer)
 - [Python](https://www.python.org/) _(maybe you need to know a little bit in python)_
+
+## More information:
+
+- **The Jupyter Notebook** is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more.
+- [How to install Jupyter Notebook?](https://jupyter.org/install)
